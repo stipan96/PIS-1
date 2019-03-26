@@ -9,6 +9,7 @@ namespace Stipan_s_project
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
         }
     }
 }
